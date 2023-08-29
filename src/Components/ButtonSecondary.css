@@ -1,0 +1,17 @@
+.btn-2 {
+  padding: 12px 70px;
+  color: #f91500;
+  background-color: rgb(243, 234, 234);
+  font-family: "Montserrat";
+  border-radius: 28px;
+  margin: 17px;
+  font-size: 2rem;
+  font-weight: 900;
+  border: none;
+}
+.btn-2:hover {
+  background-color: rgb(146, 0, 0);
+  transition: 0.5s ease;
+  cursor: pointer;
+  color: #ffffff;
+}

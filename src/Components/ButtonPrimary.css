@@ -1,0 +1,15 @@
+.btn {
+  padding: 1.2rem 7rem;
+  color: white;
+  background-color: red;
+  font-family: "Montserrat";
+  border-radius: 2.8rem;
+  margin: 1.7rem;
+  font-size: 1.8rem;
+}
+.btn:hover {
+  background-color: rgb(248, 201, 201);
+  transition: 0.5s ease;
+  cursor: pointer;
+  color: black;
+}

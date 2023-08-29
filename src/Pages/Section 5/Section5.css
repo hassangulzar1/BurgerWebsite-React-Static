@@ -1,0 +1,23 @@
+.section-5 {
+  background: #f81703;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+.section-5 h1 {
+  color: #ffffff;
+  font-weight: 700;
+  font-family: "Archivo";
+  text-align: center;
+  letter-spacing: 3px;
+  font-size: 7rem;
+}
+.section-5 p {
+  color: #ffffff;
+  font-weight: 400;
+  font-family: "Montserrat";
+  text-align: center;
+  font-size: 2rem;
+}
